@@ -11,7 +11,7 @@
  '(package-selected-packages '(evil which-key))
  '(ring-bell-function 'ignore)
  '(tool-bar-mode nil))
- '(visible-bell t))
+ '(visible-bell t)
 
 (global-set-key (kbd "C-c l") #'org-store-link)
 (global-set-key (kbd "C-c a") #'org-agenda)
