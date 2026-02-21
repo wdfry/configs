@@ -1,0 +1,9 @@
+font-family = Iosevka Fixed SS18 Extended
+# font-feature = -calt, -liga, -dlig
+font-size = 16
+quit-after-last-window-closed = true
+shell-integration-features = sudo,ssh-env,ssh-terminfo
+custom-shader =
+macos-auto-secure-input = false
+auto-update = off
+config-file = ?auto/theme.ghostty

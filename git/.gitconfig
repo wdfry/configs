@@ -1,0 +1,6 @@
+[user]
+  name = Winston Fry
+  email = winston@winstonfry.com
+
+[init]
+  defaultBranch = main
